@@ -8,4 +8,4 @@ In the evaluation phase, 12 different experiments were designed and conducted wi
 
 ## Conclusion
 
-Overall, this research demonstrates that intelligent parallelization can significantly accelerate the processing of large data volumes without compromising accuracy.
+Overall, this report demonstrates that intelligent parallelization can significantly accelerate the processing of large data volumes without compromising accuracy.
