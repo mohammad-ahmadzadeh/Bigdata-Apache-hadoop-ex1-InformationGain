@@ -1,4 +1,4 @@
-# Calculating Information Gain Using Apache Hadoop in Big Data Discussion
+# Computing Information Gain Using Apache Hadoop in Big Data 
 # Research Summary
 
 In this study, the Apache Hadoop MapReduce parallel processing framework was utilized to compute the Information Gain criterion on large-scale data. The primary objective was to select the 100 most important features from among 2,381 features of the EMBER malware dataset. To achieve this, data comprising 5,000 malware and benign samples were first preprocessed and normalized, then loaded into the Hadoop system. By designing intelligent Mappers capable of locally processing data chunks and Reducers that aggregated the results, the process of calculating the final score for each feature was successfully accomplished.
